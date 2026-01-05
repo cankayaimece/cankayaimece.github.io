@@ -1,6 +1,6 @@
 # Çankaya Hukuk Not Paylaşımı
 
-Kültür sadece parası olanlar ve yalamayı pek sevenler için var olmaz. Hayrını görünüz efendim.
+Kültür, sadece parası olanlar ve yalamayı pek sevenler için var olmaz. Hayrını görünüz efendim.
 
 *İndirmek için açılan sayfada sağ üstteki indirme butonuna basınız.*
 
