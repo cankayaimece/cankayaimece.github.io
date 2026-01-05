@@ -20,7 +20,7 @@ Roma
 * [Roma Hukuku](roma.pdf)
 
 Devlet Teorileri (Canım İlkerciğim)
-* [Devlet Teorileri](devlet_teorileri.pdf)
+* [Devlet Teorileri Çıkmışları (Düzenlenmiş)](devlet_teorileri_cikmislar_duzenlenmis.pdf)
 
 ## ⚖️ 2. Sınıf Dersleri
 
