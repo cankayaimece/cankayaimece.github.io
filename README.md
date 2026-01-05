@@ -2,6 +2,9 @@
 
 Kültür sadece parası olanlar ve yalamayı pek sevenler için var olmaz. Hayrını görünüz efendim.
 
+*İndirmek için açılan sayfada sağ üstteki indirme butonuna basınız.*
+
+
 ## ⚖️ 1. Sınıf Dersleri
 
 Hukuk Başlangıcı
@@ -32,5 +35,3 @@ Ceza Genel
 
 Türk Hukuk Tarihi
 * [Türk Hukuk Tarihi](turk_hukuk_tarihi.pdf)
----
-*İndirmek için açılan sayfada sağ üstteki indirme butonuna basınız.*
