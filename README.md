@@ -1,4 +1,4 @@
-# ÇANKAYA HUKUK İMECE
+# Çankaya Hukuk Not Paylaşımı
 
 Kültür sadece parası olanlar ve yalamayı pek sevenler için var olmaz. Hayrını görünüz efendim.
 
