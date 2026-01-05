@@ -2,7 +2,7 @@
 
 Kültür sadece parası olanlar ve yalamayı pek sevenler için var olmaz. Hayrını görünüz efendim.
 
-## 📚 1. Sınıf Dersleri
+## ⚖️ 1. Sınıf Dersleri
 * [Hukuk Başlangıcı](hukuk_baslangici.pdf)
 * [Anayasa Hukuku](anayasa.pdf)
 * [Medeni Hukuk](medeni.pdf)
