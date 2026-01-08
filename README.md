@@ -1,37 +1,35 @@
-# Çankaya Hukuk Not Paylaşımı
+[BORÇLAR GENEL .pdf](https://github.com/user-attachments/files/24496084/BORCLAR.GENEL.pdf)# Çankaya Hukuk Not Paylaşımı
 
-Kültür, sadece parası olanlar ve yalamayı pek sevenler için var olmaz. Hayrını görünüz efendim.
-
-*İndirmek için açılan sayfada sağ üstteki indirme butonuna basınız.*
-
+*Kelamı metaya çevirip, has dairelerinde elden ele dolaştıranlar bilsinler: İlim, garibana ateş pahası satılıp, eşe dosta ulufe diye dağıtılmaz. Zira kültür dediğin hazine; ne parası bol olanın ne de haysiyeti kıt olanın tekelinde yeşerir.*
 
 ## ⚖️ 1. Sınıf Dersleri
 
-Hukuk Başlangıcı
+Hukuk Başlangıcı - Dr. Dilhun Ayaydın
 * [Hukuk Başlangıcı](hukuk_baslangici.pdf)
-
+* [Hukuk Başlangıcı (Kısa)](hukuk_baslangici.pdf)
+  
 Anayasa
-* [Anayasa Hukuku](anayasa.pdf)
+* hazırlanıyor...
 
 Medeni
-* [Medeni Hukuk](medeni.pdf)
+* hazırlanıyor...
 
 Roma
-* [Roma Hukuku](roma.pdf)
+* hazırlanıyor...
 
-Devlet Teorileri (Canım İlkerciğim)
-* [Devlet Teorileri Çıkmışları (Düzenlenmiş)](devlet_teorileri_cikmislar_duzenlenmis.pdf)
+Devlet Teorileri - Dr. İlker Kılıç
+* [Devlet Teorileri Çıkmışlar (Düzenlenmiş)](devlet_teorileri_cikmislar_duzenlenmis.pdf)
 
 ## ⚖️ 2. Sınıf Dersleri
 
 Borçlar Genel
-* [Borçlar Genel](borclar_genel.pdf)
+* hazırlanıyor...
 
 Ceza Genel
-* [Ceza Genel](ceza_genel.pdf)
+* hazırlanıyor...
 
 İdare
-* [İdare Hukuku](idare.pdf)
+* hazırlanıyor...
 
 Türk Hukuk Tarihi
-* [Türk Hukuk Tarihi](turk_hukuk_tarihi.pdf)
+* hazırlanıyor...
