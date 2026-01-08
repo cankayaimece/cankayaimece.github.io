@@ -1,4 +1,4 @@
-[BORÇLAR GENEL .pdf](https://github.com/user-attachments/files/24496084/BORCLAR.GENEL.pdf)# Çankaya Hukuk Not Paylaşımı
+# Çankaya Hukuk Not Paylaşımı
 
 *Kelamı metaya çevirip, has dairelerinde elden ele dolaştıranlar bilsinler: İlim, garibana ateş pahası satılıp, eşe dosta ulufe diye dağıtılmaz. Zira kültür dediğin hazine; ne parası bol olanın ne de haysiyeti kıt olanın tekelinde yeşerir.*
 
